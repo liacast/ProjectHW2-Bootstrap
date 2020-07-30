@@ -128,14 +128,14 @@
     min-height: 100%;
     padding: 5px;
   
-    /* background: #009bff; */
+     background: #009bff; 
     background: grey ;
-    /* background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+    background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
     background: -o-linear-gradient(left, #0072ff, #00c6ff);
-    /* background: -moz-linear-gradient(left, #0072ff, #00c6ff); */
-    /* background: -o-linear-gradient(left, gray, black);
-    background: linear-gradient(left, #0072ff, #00c6ff); */
-   /* */ */
+    background: -moz-linear-gradient(left, #0072ff, #00c6ff); 
+    background: -o-linear-gradient(left, gray, black);
+    background: linear-gradient(left, #0072ff, #00c6ff);
+  
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;

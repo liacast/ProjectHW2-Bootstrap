@@ -21,12 +21,13 @@
     }
    
 
-    /*header style*/
+    /*header style added hight:100vh */
 .header{
-  background-image: url('../Portfolio1Practice/img1/peru_pg.jpg');
+  background-image: url('./img1/peru_pg.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    height: 100vh
    }
    .overlay{
     position: absolute;
@@ -46,13 +47,15 @@
     
 }
 .description h1{
- color:#F97300 ;
+ color:#F97300;
+ font-size: 100px;
 }
 .description p{
  color:#666;
- font-size: 20px;
+ font-size: 40px;
  width: 50%;
- line-height: 1.5;
+ line-height: 2.0;
+
 }
 .description button{
  border:1px  solid #F97300;
